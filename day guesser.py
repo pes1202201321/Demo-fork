@@ -89,3 +89,7 @@ else:
 
 
 print("Added a main change only")
+print("Added in fork")
+print("Ammended")
+print("Another change in forked branched out branch")
+print("Added a main change only")

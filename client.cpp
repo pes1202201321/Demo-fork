@@ -146,6 +146,7 @@ int main()
             }
         }
         close(sock);
+        std::cout << "HI There: ";
         return 0;
     }
 }
